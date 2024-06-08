@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="app.cash.sqldelight.sqlite.driver" type="repository">
+    <properties maven-id="app.cash.sqldelight:sqlite-driver:2.0.0" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/sqlite-driver-2.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jdbc-driver-2.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/runtime-jvm-2.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kotlin-stdlib-common-1.8.22.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kotlin-stdlib-jdk8-1.8.22.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kotlin-stdlib-1.8.22.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/annotations-13.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kotlin-stdlib-jdk7-1.8.22.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/sqlite-jdbc-3.42.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
